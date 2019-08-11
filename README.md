@@ -1,0 +1,20 @@
+## Available Scripts
+
+Projeto de aplicativo My Money - Parte do Frontend<br>
+Frontend nesta branch feito COM o redux<br>
+Com axios, bootstrap e font-awesome e o template Admin-lte
+
+Curso Cod3r React - Udemy
+
+### `npm install`
+
+digite: <strong>npm i</strong> para instalar todas as dependências
+
+### `npm run dev`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
+
